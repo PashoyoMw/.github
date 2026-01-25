@@ -1,6 +1,6 @@
 <img src="https://pashoyomw-green.vercel.app/icons/pa%20sho%20yo-ticket_wht.png" alt="PashoyoMW Logo" width="300" height="auto" />
 
-#Digital Ticketing & Booking Infrastructure
+# Digital Ticketing & Booking Infrastructure
 
 Welcome to the official GitHub organization for **PashoyoMW**, a digital infrastructure platform designed to power modern ticketing, event management, and booking experiences across Malawi and emerging markets. Pashoyo is focused on building secure, scalable, and user-centered systems that connect people to events, travel services, and professional experiences.
 
@@ -8,7 +8,7 @@ Our mission is to empower organizers, businesses, and institutions with reliable
 
 ---
 
-##Business & Product Overview
+## Business & Product Overview
  
 
 All collaborators must review and understand Pashoyo’s official business direction, product vision, and strategic roadmap.
@@ -20,7 +20,7 @@ This document serves as the foundation for architecture decisions, development p
 
 ---
 
-## 📦 Platform Architecture
+## Platform Architecture
 
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24"><use href="#hugeicons--flowchart-02"/></svg>
 
