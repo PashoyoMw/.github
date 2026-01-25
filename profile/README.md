@@ -1,6 +1,6 @@
 <img src="https://pashoyomw-green.vercel.app/icons/pa%20sho%20yo-ticket_wht.png" alt="PashoyoMW Logo" width="300" height="auto" />
 
-# PashoyoMW — Digital Ticketing & Booking Infrastructure
+#Digital Ticketing & Booking Infrastructure
 
 Welcome to the official GitHub organization for **PashoyoMW**, a digital infrastructure platform designed to power modern ticketing, event management, and booking experiences across Malawi and emerging markets. Pashoyo is focused on building secure, scalable, and user-centered systems that connect people to events, travel services, and professional experiences.
 
@@ -8,9 +8,8 @@ Our mission is to empower organizers, businesses, and institutions with reliable
 
 ---
 
-## 📄 Business & Product Overview
-
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3"><path d="M9 22c.36 0 1.69-.607 3.05-1.822m0 0c1.158-1.036 2.336-2.514 2.95-4.433c1.333-4.17-6.667 0-4 3.475c.328.428.681.74 1.05.958m0 0c1.602.948 3.481.096 4.754-.884c.39-.299.584-.449.7-.402s.184.314.32.85c.434 1.715 1.717 3.099 3.176.868"/></g></svg>
+##Business & Product Overview
+ 
 
 All collaborators must review and understand Pashoyo’s official business direction, product vision, and strategic roadmap.
 
@@ -23,7 +22,7 @@ This document serves as the foundation for architecture decisions, development p
 
 ## 📦 Platform Architecture
 
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.3"><path d="M4 12c0-3.771 0-5.657 1.172-6.828S8.229 4 12 4s5.657 0 6.828 1.172S20 8.229 20 12s0 5.657-1.172 6.828S15.771 20 12 20s-5.657 0-6.828-1.172S4 15.771 4 12Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24"><use href="#hugeicons--flowchart-02"/></svg>
 
 PashoyoMW is built around two core systems that form the operational backbone of the platform.
 
