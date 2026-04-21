@@ -52,11 +52,4 @@ We are building digital infrastructure for the future of events, travel, and exp
 
 ---
  
----
-
-If you want, I can create **two versions**:
-
-* 🔒 Internal README (detailed, strict, full architecture + rules)
-* 🌍 Public README (this clean version)
-
-That’s how serious startups separate signal from exposure.
+ 
